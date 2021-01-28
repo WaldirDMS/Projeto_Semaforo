@@ -1,0 +1,10 @@
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\bin\Debug\projeto_Semaforo.exe.config
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\bin\Debug\projeto_Semaforo.exe
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\bin\Debug\projeto_Semaforo.pdb
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.csprojAssemblyReference.cache
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.Form1.resources
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.Properties.Resources.resources
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.csproj.GenerateResource.cache
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.exe
+C:\Users\waldi\source\repos\projeto_Semaforo\projeto_Semaforo\obj\Debug\projeto_Semaforo.pdb
